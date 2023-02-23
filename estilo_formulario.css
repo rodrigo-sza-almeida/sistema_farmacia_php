@@ -1,0 +1,26 @@
+body{ background-color: #8AB0AB;
+} 
+
+input {
+background-color:#3E505B;
+font: 18px calibri;
+color:white;
+border:1px groove #3E505B;
+border-bottom-color: #3E505B;
+border-top-color: #3E505B;
+}
+
+form {
+color: #3E505B;
+font: 18px calibri;
+font-weight: bold;
+}
+
+table{
+font: 18px calibri;
+font-weight: bold;
+color: #3E505B;
+}
+
+
+

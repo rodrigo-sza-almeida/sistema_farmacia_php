@@ -1,0 +1,25 @@
+body{ background-color: #8AB0AB;} 
+
+
+td {
+color: #8AB0AB;
+border-color: #8AB0AB;
+border-style: solid;
+font: 14px calibri; color: #3E505B;
+font-weight: bold;
+}
+
+tr {
+color: #8AB0AB;
+border-color: #8AB0AB;
+border-style: solid;
+font: 14px calibri; color: #3E505B;
+font-weight: bold;
+}
+
+table#alter tr td { /* Toda a tabela com fundo creme */
+	background: #ffc;
+	} 
+table#alter tr.dif td {
+	background: #eee; /* Linhas com fundo cinza */
+	}
